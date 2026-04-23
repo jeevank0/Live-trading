@@ -1,6 +1,6 @@
 # Live Trading System (Binance Testnet)
 
-I built this for the assignment as a simple end-to-end pipeline
+I built this as a simple end-to-end pipeline
 
 What it does:
 
